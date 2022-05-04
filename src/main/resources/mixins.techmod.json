@@ -1,0 +1,11 @@
+{
+  "required": true,
+  "minVersion": "0.7.10",
+  "package": "emyno.techmod.mixin",
+  "refmap": "mixins.myplugin.refmap.json",
+  "target": "@env(DEFAULT)",
+  "compatibilityLevel": "JAVA_17",
+  "mixins": [
+
+  ]
+}
